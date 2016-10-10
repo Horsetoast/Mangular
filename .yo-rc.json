@@ -1,0 +1,18 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "js": true,
+      "html": true,
+      "less": true,
+      "pagination": true,
+      "framework": "ionic",
+      "auth": true,
+      "appname": "mangularApp",
+      "projectname": "mangular",
+      "modules": "'angular-meteor',\n  'ionic',\n  'angularUtils.directives.dirPagination',\n  'accounts.ui'",
+      "usedBower": false,
+      "bower": false
+    },
+    "appname": "mangular"
+  }
+}
